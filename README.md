@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**purexm03lly/purexm03lly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HALENCOHENMANAGEMENTCOMPAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
